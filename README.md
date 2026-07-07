@@ -18,6 +18,8 @@ Ce dépôt rassemble des projets pratiques réalisés en autonomie pour dévelop
 
 Réseau d'entreprise simulé à quatre services (Direction, RH, IT, Invités), avec segmentation VLAN, routage inter-VLAN et politique de sécurité par ACL selon le principe de moindre privilège.
 
+![Topologie du réseau](./Project-1-VLAN-ACL/topologie-reseau.png)
+
 **Compétences démontrées** : VLAN, trunk 802.1Q, Router-on-a-Stick, DHCP relay, ACL étendues, méthodologie de test réseau.
 
 📄 [Documentation complète](./Project-1-VLAN-ACL/Conception-Reseau-Entreprise.pdf) · 🗂️ [Fichier Packet Tracer](./Project-1-VLAN-ACL/Reseau-Entreprise.pkt)
